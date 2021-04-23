@@ -1,0 +1,19 @@
+{
+  "mainBanners": [
+    {
+      "title": "MEN",
+      "image": "/assets/men-collection.jpg",
+      "link": "/"
+    },
+    {
+      "title": "WOMEN",
+      "image": "/assets/women-collection.jpg",
+      "link": "/"
+    },
+    {
+      "title": "ACCESSORIES",
+      "image": "/assets/accessories-collection.jpg",
+      "link": "/"
+    }
+  ]
+}
